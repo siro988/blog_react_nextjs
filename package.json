@@ -9,16 +9,16 @@
     "graphql": "^16.5.0",
     "graphql-request": "^4.3.0",
     "html-react-parser": "^1.4.14",
-    "moment": "^2.29.3",
+    "moment": "^2.29.4",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "react-multi-carousel": "^2.8.0",
-    "sass": "^1.52.2"
+    "react-multi-carousel": "^2.8.2",
+    "sass": "^1.54.3"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
-    "@types/react": "^16.14.28",
+    "@types/react": "^15.7.8",
     "@types/react-dom": "18.0.5",
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
